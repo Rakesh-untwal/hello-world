@@ -26,7 +26,7 @@ color:white;
 .margin-bottom{margin-bottom:16px!important}
 .large{font-size:28px!important}
 .container{padding:0.01em 16px}
-.col{float:left;width:100%}
+.col{float:left;width:50%}
 .opacity{opacity:0.60}
 .col.l3{width:24.99999%}
 .col.m6{width:49.99999%}
