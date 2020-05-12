@@ -32,7 +32,7 @@ color:white;
 .opacity{opacity:0.60}
 @media only screen and (min-width:800px){.col.13{width:49.99%;}
 .col.m6{width:49.999%;}}
-@media only screen and (max-width:210px){ .rounded img{border-radius:50%; width:100%;}}
+@media only screen and (max-width:210px){ .rounded img{border-radius:50%; width:40%; height:150px;}}
 @media only screen and (max-width:800px){
 .col.13{width:100%;}
 .col.m6{width:100%;}
@@ -49,7 +49,7 @@ margin-top:10px;
 }
 </style>
 </head>
-<body style="font-family:arial; opacity:0.9">
+<body style="font-family:arial; opacity:0.9; overflow:auto;">
 <div class="container" style="padding:80px 16px" >
   <h3 class="center" style="font-size:60px"><b>OUR TEAM</b></h3>
   <p class="center large"><i>The ones who runs this company</i></p>
@@ -57,7 +57,7 @@ margin-top:10px;
   <div class="row-padding grayscale" style="margin-top:64px">
     <div class=" col l3 m6 margin-bottom">
       <div class="card"> <div class="rounded">
-        <img src="https://missioned.in/ps.jpg" alt="Prithwi photo" width="100px" height="100px"> </div> <hr />
+        <img src="https://missioned.in/ps.jpg" alt="Prithwi photo" width="120px" height="120px"> </div> <hr />
         <div class="container">
           <h3 class="center"style="margin-bottom:1px; padding-bottom:1px;overflow:auto;" >Prithwi Sinha</h3>
           <p class="opacity" style=" margin-top:2px; line-height:10px;" >CEO & Founder</p>
@@ -68,7 +68,7 @@ margin-top:10px;
     </div>
     <div class="col l3 m6 margin-bottom">
       <div class="card"><div class="rounded">
-        <img src="https://missioned.in/st.jpg" alt="Soumya photo" width="100px" height="100px" > </div> <hr />
+        <img src="https://missioned.in/st.jpg" alt="Soumya photo" width="120px" height="120px" > </div> <hr />
         <div class="container">
           <h3 class="center" style="margin-bottom:1px;padding-bottom:10px;overflow:auto;">Soumya Tarafder</h3>
           <p class="opacity" style=" margin-top:2px; line-height:5px;">Product Manager</p>
@@ -79,7 +79,7 @@ margin-top:10px;
     </div>
     <div class="col l3 m6 margin-bottom">
       <div class="card"> <div class="rounded">
-        <img src="https://missioned.in/aa.jpg" alt="Adnan photo" width="100px" height="100px"> </div> <hr />
+        <img src="https://missioned.in/aa.jpg" alt="Adnan photo" width="120px" height="120px"> </div> <hr />
         <div class="container">
           <h3 class="center" style="margin-bottom:1px;padding-bottom:5px;overflow:auto;">Adnan Abbas</h3>
           <p class="opacity" style="margin-top:2px; line-height:15px;">Product Manager</p>
@@ -90,7 +90,7 @@ margin-top:10px;
     </div>
     <div class="col l3 m6 margin-bottom">
       <div class="card"> <div class="rounded">
-        <img src="https://missioned.in/bandmember.jpg" alt="Tamogna photo" width="100px" height="100px"> </div> <hr />
+        <img src="https://missioned.in/bandmember.jpg" alt="Tamogna photo" width="120px" height="120px"> </div> <hr />
         <div class="container">
           <h3 class="center" style="margin-bottom:1px;padding-bottom:10px;overflow:auto;">Tamoghna Ghosh</h3>
           <p class="opacity" style="margin-top:2px; line-height:5px;">Faculty Member</p>
